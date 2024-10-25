@@ -23,4 +23,5 @@ This project demonstrates the process of building, training, and evaluating an e
 1. Clone this repository:
    ```bash
    git clone https://github.com/Uditgupta08/Emotion-Detection-from-text.git
-   cd emotion-detection-model
+   cd Emotion-Detection-from-text
+   
