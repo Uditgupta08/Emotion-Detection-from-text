@@ -13,7 +13,7 @@ This project demonstrates the process of building, training, and evaluating an e
 
 ## Model Performance
 
-- Logistic Regression Validation Accuracy: 86.45%
+- Logistic Regression Validation Accuracy: 76.45%
 - Random Forest Validation Accuracy: 87.6%
 - SVM Validation Accuracy: 88.55%
 - Naive Bayes Validation Accuracy: 75.2%
